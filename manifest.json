@@ -1,0 +1,24 @@
+{
+    "name": "PWA",
+    "short_name": "PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "description": "Progressive Web App Demo",
+    "icons": [
+        {
+            "src": "icons/Icon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/Icon-512-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
